@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="10%" src="./docs/rpi.webp">
-  <img width="10%" src="./docs/clementine.png">
-  <img width="10%" src="./docs/touchosc.png">
-  <img width="10%" src="./docs/midi.jpg">
-  <img width="10%" src="./docs/blt.png">
-  <img width="10%" src="./docs/midi-bricks.png">
+  <img width="12%" src="./docs/rpi.webp">
+  <img width="12%" src="./docs/clementine.png">
+  <img width="12%" src="./docs/touchosc.png">
+  <img width="12%" src="./docs/midi.jpg">
+  <img width="12%" src="./docs/blt.png">
+  <img width="12%" src="./docs/midi-bricks.png">
 </p>
 
 # rpi-osc-midi-jukebox
