@@ -19,7 +19,19 @@ Turn your raspberry pi into a self running music jukebox, which is full controll
 - clementine, touchosc2midi, libnotify, aconnect-gui
 - https://howchoo.com/pi/raspberry-pi-midi-keyboard-synthesizer
 - https://github.com/velolala/touchosc2midi
-- Bluetooth MIDI Setup: https://neuma.studio/rpi-midi-complete.html
+
+
+- 64Bit Realtime Kernel OS: https://forum.linuxcnc.org/9-installing-linuxcnc/39779-rpi4-raspbian-64-bit-linuxcnc
+
+- Touch OSC: https://hexler.net/docs/touchosc-getting-started
+
+
+# Working as a bluetooth midi server
+- This device could act as an additional midi source like keyboard or hardware midi controller
+- the other way arround, midi could be send to the device for further internal usage (consider to use Ardour on the rpi for handling MIDI input signals and generating sound on this)
+- Bluetooth MIDI Setup: https://neuma.studio/rpi-midi-complete.html (scroll down to bluetooth midi chapter only, forget about the rest)
+
+- Consider to compile the lib for your pi:
 
 ``` 
 git clone https://github.com/oxesoft/bluez
@@ -33,6 +45,13 @@ make
 sudo make install 
 ``` 
 
-- 64Bit Realtime Kernel OS: https://forum.linuxcnc.org/9-installing-linuxcnc/39779-rpi4-raspbian-64-bit-linuxcnc
+- Now you should be able to start the script:
 
-- Touch OSC: https://hexler.net/docs/touchosc-getting-started
+``` 
+sudo /home/pi/bin/start-blt-midi.sh 
+``` 
+
+- If all this went fine without any issues, you should be able to see your rpi device in your DAW host on the other side for any MIDI communication. 
+--> on Mac you can start the audio/midi tool and open up the bluetooth midi view to see if anything is here
+--> Ableton Live should show it as a new driver called: "RPi Bluetooth"
+--> on Win this is not tested. 
