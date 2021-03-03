@@ -19,22 +19,24 @@ cd rpi-osc-midi-jukebox
 cp -r pi-home/* $HOME/
 ```
 
-- Copy the script service script:
+- Copy the main service script:
+- have a look at .config/autostart/autostart-start-osc-midi-bridge.desktop which is used to start the service from /usr/bin
 ```
 sudo cp $HOME/start-midi-space.sh  /usr/bin
 ```
 
-- Copy the lxde Configuration (only the key configuration is relevant):
-- On your keyboard keys, you can change volume via hotkeys shift+ctrl left or right afterwards
-- Furthermore this enables the scripts to react on volume changes via extern osc or midi signals
+- In order to change the volume via keyboard keys do the following:
+- Copy over the lxde Configuration (only if you have no personal dependencies here, be careful!):
+- On your keyboard keys, now you can change volume via hotkeys shift+ctrl left or right to increase or decrease the volume
+- Furthermore, this enables the remote scripts to react on volume changes via extern osc or midi signals
 
 ``` 
 sudo cp $HOME/lxde-pi-rc.xml /etc/xdg/openbox/
 ```  
 
 ## Remote Control with TouchOSC
-- Please accept, this app costs money, otherwise if you deny to use commercial software, please have a look at Open Stage Control: https://openstagecontrol.ammd.net/
-- However, for TouchOSC just use the file: RaspiTouchOsc.touchosc for loading into your touchOSC Application (iOS or Android is supported) see: https://hexler.net/docs/touchosc-configuration-layout-load-and-remove
+- Please consider, TouchOSC costs money, otherwise if you deny to use commercial software, please have a look at Open Stage Control: https://openstagecontrol.ammd.net/ (Feedback is welcome!)
+- However, for TouchOSC, just use the file: RaspiTouchOsc.touchosc for loading into your touchOSC Application (iOS or Android is supported) see: https://hexler.net/docs/touchosc-configuration-layout-load-and-remove
 
 # Dependencies
 - At first, please install dependencies on command line, to have basic functionality available:
