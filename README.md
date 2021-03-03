@@ -40,7 +40,7 @@ sudo cp $HOME/lxde-pi-rc.xml /etc/xdg/openbox/
 - At first, please install dependencies on command line, to have basic functionality available:
 
 ```
-sudo apt-get install -y clementine, libnotify, aconnect-gui
+sudo apt-get install -y clementine libnotify xdotool aconnectgui
 ```
 
 - https://howchoo.com/pi/raspberry-pi-midi-keyboard-synthesizer
