@@ -82,3 +82,19 @@ sudo /home/pi/bin/start-blt-midi.sh
 --> on Mac you can start the audio/midi tool and open up the bluetooth midi view to see if anything is here
 --> Ableton Live should show it as a new driver called: "RPi Bluetooth"
 --> on Win this is not tested. 
+
+
+# Working as MIDI Controller Source
+- Consider to have a look at midi bricks:
+https://github.com/TimSusa/midi-bricks
+- Install for Raspberry Pi can be found here: https://github.com/TimSusa/midi-bricks/releases
+- Chose the *.arm7.AppImage File for download
+- Make the file executable on commandline:
+``` 
+chmod +x midi-bricks*.AppImage
+./midi-bricks*.AppImage
+```  
+
+- No you can start the application via double click
+- After starting the application enable the drivers first (see simple button in the app)
+
