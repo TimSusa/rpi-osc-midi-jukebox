@@ -1,3 +1,11 @@
+<p align="center">
+  <img width="20%" src="./docs/rpi.webp">
+  <img width="20%" src="./docs/clementine.png">
+  <img width="20%" src="./docs/touchosc.png">
+  <img width="20%" src="./docs/midi.jpg">
+  <img width="20%" src="./docs/blt.png">
+</p>
+
 # rpi-osc-midi-jukebox
 Turn your raspberry pi into a self running music jukebox, which is fully controllable via OSC and MIDI. iOS and Android Controls supported 
 
