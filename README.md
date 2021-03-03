@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="20%" src="./docs/rpi.webp">
-  <img width="20%" src="./docs/clementine.png">
-  <img width="20%" src="./docs/touchosc.png">
-  <img width="20%" src="./docs/midi.jpg">
-  <img width="20%" src="./docs/blt.png">
+  <img width="15%" src="./docs/rpi.webp">
+  <img width="15%" src="./docs/clementine.png">
+  <img width="15%" src="./docs/touchosc.png">
+  <img width="15%" src="./docs/midi.jpg">
+  <img width="15%" src="./docs/blt.png">
 </p>
 
 # rpi-osc-midi-jukebox
