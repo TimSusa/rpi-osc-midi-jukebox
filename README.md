@@ -1,5 +1,5 @@
 # rpi-osc-midi-jukebox
-Turn your raspberry pi into a self running music jukebox, which is full controllable via OSC and MIDI. iOS and Android Controls supported 
+Turn your raspberry pi into a self running music jukebox, which is fully controllable via OSC and MIDI. iOS and Android Controls supported 
 
 # Features 
 - self running music jukebox, with playlist from soma fm (configurable)
