@@ -16,7 +16,7 @@ cd rpi-osc-midi-jukebox
 
 - Add the content of pi-home into your home folder of the raspberry pi (Do this on your own risk!)
 ```
-cp -r pi-home $HOME/
+cp -r pi-home/* $HOME/
 ```
 
 - Copy the script service script:
