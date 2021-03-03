@@ -11,6 +11,7 @@ Turn your raspberry pi into a self running music jukebox, which is fully control
 
 ``` 
 git clone https://github.com/TimSusa/rpi-osc-midi-jukebox.git 
+cd rpi-osc-midi-jukebox
 ``` 
 
 - Add the content of pi-home into your home folder of the raspberry pi (Do this on your own risk!)
