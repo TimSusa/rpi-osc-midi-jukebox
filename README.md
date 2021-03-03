@@ -34,10 +34,6 @@ sudo cp $HOME/start-midi-space.sh  /usr/bin
 sudo cp $HOME/lxde-pi-rc.xml /etc/xdg/openbox/
 ```  
 
-## Remote Control with TouchOSC
-- Please consider, TouchOSC costs money, otherwise if you deny to use commercial software, please have a look at Open Stage Control: https://openstagecontrol.ammd.net/ (Feedback is welcome!)
-- However, for TouchOSC, just use the file: RaspiTouchOsc.touchosc for loading into your touchOSC Application (iOS or Android is supported) see: https://hexler.net/docs/touchosc-configuration-layout-load-and-remove
-
 # Dependencies
 - At first, please install dependencies on command line, to have basic functionality available:
 
@@ -53,6 +49,9 @@ sudo apt-get install -y clementine libnotify xdotool aconnectgui
 
 - Touch OSC: https://hexler.net/docs/touchosc-getting-started
 
+## Remote Control with TouchOSC
+- Please consider, TouchOSC costs money, otherwise if you deny to use commercial software, please have a look at Open Stage Control: https://openstagecontrol.ammd.net/ (Feedback is welcome!)
+- However, for TouchOSC, just use the file: RaspiTouchOsc.touchosc for loading into your touchOSC Application (iOS or Android is supported) see: https://hexler.net/docs/touchosc-configuration-layout-load-and-remove
 
 # Working as a bluetooth midi server
 - This device could act as an additional midi source like keyboard or hardware midi controller
