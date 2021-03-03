@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=OSC to Midi Bridge
+Comment=Start the Service for handling osc and midi signals
+Exec=/usr/bin/start-midi-space.sh
+Terminal=true
+Type=Application
+NoDisplay=false
+StartupNotify=true
+X-KeepTerminal=true
+

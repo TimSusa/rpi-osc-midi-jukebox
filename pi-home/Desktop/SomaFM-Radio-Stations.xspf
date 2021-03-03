@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <trackList>
+    <track>
+      <location>http://ice2.somafm.com/dronezone-128-aac</location>
+      <title>SomaFM: Drone Zone (#1): Served best chilled, safe with most medications. Atmospheric textures with minimal beats.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice4.somafm.com/dronezone-128-aac</location>
+      <title>SomaFM: Drone Zone (#2): Served best chilled, safe with most medications. Atmospheric textures with minimal beats.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice6.somafm.com/dronezone-128-aac</location>
+      <title>SomaFM: Drone Zone (#3): Served best chilled, safe with most medications. Atmospheric textures with minimal beats.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice1.somafm.com/dronezone-128-aac</location>
+      <title>SomaFM: Drone Zone (#4): Served best chilled, safe with most medications. Atmospheric textures with minimal beats.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice6.somafm.com/synphaera-128-aac</location>
+      <title>SomaFM: Synphaera Radio (#1): Featuring the music from an independent record label focused on modern electronic ambient and space music.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice4.somafm.com/synphaera-128-aac</location>
+      <title>SomaFM: Synphaera Radio (#2): Featuring the music from an independent record label focused on modern electronic ambient and space music.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice2.somafm.com/synphaera-128-aac</location>
+      <title>SomaFM: Synphaera Radio (#3): Featuring the music from an independent record label focused on modern electronic ambient and space music.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice1.somafm.com/synphaera-128-aac</location>
+      <title>SomaFM: Synphaera Radio (#4): Featuring the music from an independent record label focused on modern electronic ambient and space music.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice6.somafm.com/sonicuniverse-128-aac</location>
+      <title>SomaFM: Sonic Universe (#1): Transcending the world of jazz with eclectic, avant-garde takes on tradition.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice4.somafm.com/sonicuniverse-128-aac</location>
+      <title>SomaFM: Sonic Universe (#2): Transcending the world of jazz with eclectic, avant-garde takes on tradition.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice2.somafm.com/sonicuniverse-128-aac</location>
+      <title>SomaFM: Sonic Universe (#3): Transcending the world of jazz with eclectic, avant-garde takes on tradition.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice1.somafm.com/sonicuniverse-128-aac</location>
+      <title>SomaFM: Sonic Universe (#4): Transcending the world of jazz with eclectic, avant-garde takes on tradition.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice6.somafm.com/beatblender-128-aac</location>
+      <title>SomaFM: Beat Blender (#1): A late night blend of deep-house and downtempo chill.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice4.somafm.com/beatblender-128-aac</location>
+      <title>SomaFM: Beat Blender (#2): A late night blend of deep-house and downtempo chill.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice2.somafm.com/beatblender-128-aac</location>
+      <title>SomaFM: Beat Blender (#3): A late night blend of deep-house and downtempo chill.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice1.somafm.com/beatblender-128-aac</location>
+      <title>SomaFM: Beat Blender (#4): A late night blend of deep-house and downtempo chill.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice6.somafm.com/gsclassic-128-aac</location>
+      <title>SomaFM: Groove Salad Classic (#1): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice4.somafm.com/gsclassic-128-aac</location>
+      <title>SomaFM: Groove Salad Classic (#2): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice2.somafm.com/gsclassic-128-aac</location>
+      <title>SomaFM: Groove Salad Classic (#3): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice1.somafm.com/gsclassic-128-aac</location>
+      <title>SomaFM: Groove Salad Classic (#4): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice4.somafm.com/reggae-128-aac</location>
+      <title>SomaFM: Heavyweight Reggae (#1): NEW! Reggae, Ska, Rocksteady classic and deep tracks.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice6.somafm.com/reggae-128-aac</location>
+      <title>SomaFM: Heavyweight Reggae (#2): NEW! Reggae, Ska, Rocksteady classic and deep tracks.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice2.somafm.com/reggae-128-aac</location>
+      <title>SomaFM: Heavyweight Reggae (#3): NEW! Reggae, Ska, Rocksteady classic and deep tracks.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice1.somafm.com/reggae-128-aac</location>
+      <title>SomaFM: Heavyweight Reggae (#4): NEW! Reggae, Ska, Rocksteady classic and deep tracks.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice6.somafm.com/7soul-128-aac</location>
+      <title>SomaFM: Seven Inch Soul (#1): Vintage soul tracks from the original 45 RPM vinyl.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice4.somafm.com/7soul-128-aac</location>
+      <title>SomaFM: Seven Inch Soul (#2): Vintage soul tracks from the original 45 RPM vinyl.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice2.somafm.com/7soul-128-aac</location>
+      <title>SomaFM: Seven Inch Soul (#3): Vintage soul tracks from the original 45 RPM vinyl.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice1.somafm.com/7soul-128-aac</location>
+      <title>SomaFM: Seven Inch Soul (#4): Vintage soul tracks from the original 45 RPM vinyl.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice4.somafm.com/seventies-320-mp3</location>
+      <title>SomaFM: Left Coast 70s (#1): Mellow album rock from the Seventies. Yacht not required.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice6.somafm.com/seventies-320-mp3</location>
+      <title>SomaFM: Left Coast 70s (#2): Mellow album rock from the Seventies. Yacht not required.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice2.somafm.com/seventies-320-mp3</location>
+      <title>SomaFM: Left Coast 70s (#3): Mellow album rock from the Seventies. Yacht not required.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice1.somafm.com/seventies-320-mp3</location>
+      <title>SomaFM: Left Coast 70s (#4): Mellow album rock from the Seventies. Yacht not required.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice4.somafm.com/defcon-128-aac</location>
+      <title>Forest Trip</title>
+      <creator>Kyoto</creator>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice2.somafm.com/defcon-128-aac</location>
+      <title>SomaFM: DEF CON Radio (#2): Music for Hacking. The DEF CON Year-Round Channel.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice6.somafm.com/defcon-128-aac</location>
+      <title>SomaFM: DEF CON Radio (#3): Music for Hacking. The DEF CON Year-Round Channel.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+      <location>http://ice1.somafm.com/defcon-128-aac</location>
+      <title>SomaFM: DEF CON Radio (#4): Music for Hacking. The DEF CON Year-Round Channel.</title>
+      <duration>900000</duration>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice2.somafm.com/vaporwaves-128-aac</location>
+      <title>SomaFM: Vaporwaves (#1): All Vaporwave. All the time.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice4.somafm.com/vaporwaves-128-aac</location>
+      <title>SomaFM: Vaporwaves (#2): All Vaporwave. All the time.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice6.somafm.com/vaporwaves-128-aac</location>
+      <title>SomaFM: Vaporwaves (#3): All Vaporwave. All the time.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice1.somafm.com/vaporwaves-128-aac</location>
+      <title>SomaFM: Vaporwaves (#4): All Vaporwave. All the time.</title>
+    </track>
+    <track>
+      <location>http://ice2.somafm.com/u80s-128-aac</location>
+      <title>SomaFM: Underground 80s (#1): Early 80s UK Synthpop and a bit of New Wave.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice4.somafm.com/u80s-128-aac</location>
+      <title>SomaFM: Underground 80s (#2): Early 80s UK Synthpop and a bit of New Wave.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice6.somafm.com/u80s-128-aac</location>
+      <title>SomaFM: Underground 80s (#3): Early 80s UK Synthpop and a bit of New Wave.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice1.somafm.com/u80s-128-aac</location>
+      <title>SomaFM: Underground 80s (#4): Early 80s UK Synthpop and a bit of New Wave.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice4.somafm.com/illstreet-128-mp3</location>
+      <title>SomaFM: Illinois Street Lounge (#1): Classic bachelor pad, playful exotica and vintage music of tomorrow.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice2.somafm.com/illstreet-128-mp3</location>
+      <title>SomaFM: Illinois Street Lounge (#2): Classic bachelor pad, playful exotica and vintage music of tomorrow.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice6.somafm.com/illstreet-128-mp3</location>
+      <title>SomaFM: Illinois Street Lounge (#3): Classic bachelor pad, playful exotica and vintage music of tomorrow.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice1.somafm.com/illstreet-128-mp3</location>
+      <title>SomaFM: Illinois Street Lounge (#4): Classic bachelor pad, playful exotica and vintage music of tomorrow.</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice4.somafm.com/secretagent-128-aac</location>
+      <title>SomaFM: Secret Agent (#1): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice2.somafm.com/secretagent-128-aac</location>
+      <title>SomaFM: Secret Agent (#2): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice6.somafm.com/secretagent-128-aac</location>
+      <title>SomaFM: Secret Agent (#3): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice1.somafm.com/secretagent-128-aac</location>
+      <title>SomaFM: Secret Agent (#4): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice4.somafm.com/live-128-aac</location>
+      <title>jon logan 2020 Aug 8</title>
+      <creator>DEF CON SAFE MODE</creator>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice6.somafm.com/live-128-aac</location>
+      <title>SomaFM: SomaFM Live (#2): Special Live Events and rebroadcasts of past live events</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice2.somafm.com/live-128-aac</location>
+      <title>SomaFM: SomaFM Live (#3): Special Live Events and rebroadcasts of past live events</title>
+    </track>
+    <track>
+<duration>900000</duration>
+      <location>http://ice1.somafm.com/live-128-aac</location>
+      <title>SomaFM: SomaFM Live (#4): Special Live Events and rebroadcasts of past live events</title>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,3 @@
+https://forum.linuxcnc.org/9-installing-linuxcnc/39779-rpi4-raspbian-64-bit-linuxcnc
+
+https://neuma.studio/rpi-midi-complete.html

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Notification Daemon
+Comment=Display notifications
+Exec=/usr/lib/notification-daemon/notification-daemon
+Terminal=true
+Type=Application
+NoDisplay=false
+StartupNotify=true
+X-KeepTerminal=true
+Name[en_GB]=notification-daemon.desktop
