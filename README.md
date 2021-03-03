@@ -2,19 +2,46 @@
 Turn your raspberry pi into a self running music jukebox, which is fully controllable via OSC and MIDI. iOS and Android Controls supported 
 
 # Features 
-- self running music jukebox, with playlist from soma fm (configurable)
+- self running music jukebox, with self repeating playlist from soma fm (configurable)
 - music player remote control via TouchOSC App (iOS, Android, see loading layout below)
 - possibility to start the device as bluetooth midi host (see script start-blt-midi.sh) for DAW remote usage
 
-# Configuration
-- Copy the content of pi-home into your home folder of the raspberry pi (do not overwrite your own home!)
-- Copy the script: start-midi-space.sh with sudo to /usr/bin
-- Consider if you have to do other scripts executable via chmod 
-- Copy lxde-pi-rc.xml to /etc/xdg/openbox/lxde-pi-rc.xml (this is for configuring volume hotkeys shift+ctrl left or right)
-- Use the file: RaspiTouchOsc.touchosc for loading into your touchOSC Application (iOS or Android is supported) see: https://hexler.net/docs/touchosc-configuration-layout-load-and-remove
+# First Steps
+- Clone this repo into your raspberry pi home folder
+
+``` 
+git clone https://github.com/TimSusa/rpi-osc-midi-jukebox.git 
+``` 
+
+- Add the content of pi-home into your home folder of the raspberry pi (Do this on your own risk!)
+```
+cp -r pi-home $HOME/
+```
+
+- Copy the script service script:
+```
+sudo cp $HOME/start-midi-space.sh  /usr/bin
+```
+
+- Copy the lxde Configuration (only the key configuration is relevant):
+- On your keyboard keys, you can change volume via hotkeys shift+ctrl left or right afterwards
+- Furthermore this enables the scripts to react on volume changes via extern osc or midi signals
+
+``` 
+sudo cp $HOME/lxde-pi-rc.xml /etc/xdg/openbox/
+```  
+
+## Remote Control with TouchOSC
+- Please accept, this app costs money, otherwise if you deny to use commercial software, please have a look at Open Stage Control: https://openstagecontrol.ammd.net/
+- However, for TouchOSC just use the file: RaspiTouchOsc.touchosc for loading into your touchOSC Application (iOS or Android is supported) see: https://hexler.net/docs/touchosc-configuration-layout-load-and-remove
 
 # Dependencies
-- clementine, touchosc2midi, libnotify, aconnect-gui
+- At first, please install dependencies on command line, to have basic functionality available:
+
+```
+sudo apt-get install -y clementine, libnotify, aconnect-gui
+```
+
 - https://howchoo.com/pi/raspberry-pi-midi-keyboard-synthesizer
 - https://github.com/velolala/touchosc2midi
 
