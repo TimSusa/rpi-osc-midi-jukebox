@@ -4,7 +4,7 @@ Turn your raspberry pi into a self running music jukebox, which is fully control
 # Features 
 - self running music jukebox, with self repeating playlist from soma fm (configurable)
 - music player remote control via TouchOSC App (iOS, Android, see loading layout below)
-- possibility to start the device as bluetooth midi host (see script start-blt-midi.sh) for DAW remote usage
+- possibility to start the device as bluetooth midi host for DAW remote usage
 
 # First Steps
 - Clone this repo into your raspberry pi home folder
